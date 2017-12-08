@@ -1,0 +1,46 @@
+nav {  
+      font-weight: bold; 
+	  font-size: 1.5em;  
+      text-align: center; 
+	  display: incline;
+	  margin: 0;
+    padding: 0;
+    overflow: hidden;
+	background-color: #ffffff; height: auto; 
+	 } 
+nav a { text-decoration: none;  }
+nav a:link {color: #000033;}
+nav a:visited {color: #344873;}
+nav a:hover {color: #FF0000}
+
+#wrapper { min-width: 700px; max-width: 1024px;  background-image: url(assets/0back1.gif); margin: auto;  background-size: 100% 100%;  }
+header { background-image: url(assets/0banner1.gif); background-repeat: no-repeat;
+    background-position: right top; 
+	height: 200px; margin-bottom: 0; width: 100%; margin-right: auto; margin-left: auto; background-size: 100% 100%; min-width: 700px; max-width: 1024px;  }
+
+
+.bullet_image li{list-style-image: url("assets/sm_bullet_vertical.png"); text-decoration: none; }
+
+.brands li {
+  display: inline-block;
+  list-style: none;
+  margin-right: 2%;
+  margin-left: 2%;
+  align: center; 
+}
+.brands ul {
+  text-align: center;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+		
+#Movement {color: red; text-decoration: underline; }
+p::first-letter {
+    font-size: 200%;
+    color: #8B0000;
+}
+.nav {background-color: #ffffff; min-width: 700px; max-width: 1024px; background-size: 100% 100%;}
+
+	p, h1, h2, dl {padding: 1em}
+	
+	footer {text-align: center}
